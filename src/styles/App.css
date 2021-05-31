@@ -1,0 +1,36 @@
+h1 {
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.19);
+  padding-left: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.container {
+  display: inline-block;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.badge {
+  background-color: royalblue;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 2px;
+  margin-right: 20px;
+}
+
+.button {
+  font-size: medium;
+  cursor: pointer;
+  background: rgb(187, 187, 13);
+  border-radius: 9px;
+  padding: 13px;
+  margin-right: 7px;
+  border: 0px;
+  color: #ffffff;
+}
+
+.button:hover {
+  background-color: gray;
+}
